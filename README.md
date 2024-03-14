@@ -21,7 +21,7 @@ Here are some of the technologies I work with:
 
 Take a look at some of my highlighted projects:
 
-1. [Django Tasks App]([link](https://github.com/ediv4ldoantonio/tasks-app-django.git))
+1. [Django Tasks App](https://github.com/ediv4ldoantonio/tasks-app-django.git)
 
 ## GitHub Stats
 
@@ -29,7 +29,7 @@ Take a look at some of my highlighted projects:
 
 ## Connect with Me
 
-- [LinkedIn]([link](https://www.linkedin.com/in/edivaldo-ant%C3%B3nio-215612286/))
+- [LinkedIn](https://www.linkedin.com/in/edivaldo-ant%C3%B3nio-215612286/)
 - [Intagram](https://www.instagram.com/ediv4ldoantonio/)
 
 Feel free to explore my repositories and don't hesitate to reach out!
