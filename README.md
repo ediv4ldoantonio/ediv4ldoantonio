@@ -4,8 +4,6 @@ I'm Edivaldo António, a Software Devloper from Angola. Welcome to my GitHub pro
 
 ## About Me
 
-- 🌱 I’m currently learning Linux and Spring Boot
-- 💬 Ask me about Django
 - 📫 How to reach me: ediv4ldoantonio@gmail.com
 - 😄 Pronouns: He/Him
 
@@ -14,14 +12,18 @@ I'm Edivaldo António, a Software Devloper from Angola. Welcome to my GitHub pro
 Here are some of the technologies I work with:
 
 - Django
+- Spring Boot
+- Angular
 - Flutter
 - .NET
+- AWS
 
 ## Projects
 
 Take a look at some of my highlighted projects:
 
 1. [Django Tasks App](https://github.com/ediv4ldoantonio/tasks-app-django.git)
+2. [Todo List](https://github.com/ediv4ldoantonio/todo-list)
 
 ## GitHub Stats
 
