@@ -5,7 +5,6 @@ I'm Edivaldo António, a Software Devloper from Angola. Welcome to my GitHub pro
 ## About Me
 
 - 📫 How to reach me: ediv4ldoantonio@gmail.com
-- 😄 Pronouns: He/Him
 
 ## Technologies
 
